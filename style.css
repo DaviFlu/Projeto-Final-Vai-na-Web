@@ -93,7 +93,7 @@ footer{
 .apresentacao{
     width:100%;
     height:80vh;
-    background-image: url("laranja.jpg");
+    background-image: url("imagens/laranja.jpg");
     background-repeat:no-repeat;
     background-size:cover;
     display:flex;
@@ -323,7 +323,7 @@ ul li a:hover{
 }
 /* - - APRESENTAÇÃO - - */
 .apresentacao{
-    background-image: url("laranja_recorte.png");
+    background-image: url("imagens/laranja_recorte.png");
     background-size:cover;
     width:100%;
 }
